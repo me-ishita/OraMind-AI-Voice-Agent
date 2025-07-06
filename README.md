@@ -1,36 +1,103 @@
+# 🎙️ OraMind - AI Voice Agent
+
+![OraMind Logo](public/icon.jpg)
+
+> **Speak. Learn. Grow.**  
+> A powerful voice-based AI assistant built with modern technologies to enhance your skills, learn deeply, and get instant feedback with real-time conversation.
+
+---
+
+## 🔥 Live Demo
+
+🧠 Talk to AI, get feedback, and level up your communication!
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology       | Role/Usage                                      |
+|------------------|--------------------------------------------------|
+| **Next.js 14+**      | Full-stack framework                         |
+| **Tailwind CSS**     | Styling and responsiveness                   |
+| **Convex.dev**       | Serverless DB & Realtime Functions           |
+| **Google Cloud STT** | Real-time Speech-to-Text                     |
+| **Amazon Polly**     | AI-generated voice responses (Text-to-Speech)|
+| **OpenAI (via OpenRouter)** | AI chat assistant using GPT models         |
+| **React + Framer Motion** | UI interactivity and animation              |
+| **Toast / Sonner**   | Feedback notifications                       |
+| **HTML, CSS, JS**    | Core front-end                               |
+
+---
+
+## 🚀 Features
+
+### 🎧 Real-Time Voice Conversation
+- Users can **speak to the AI**, and the app uses **Google Speech-to-Text** to transcribe it.
+- AI replies using **OpenAI (via OpenRouter)** with intelligent conversation flow.
+- Voice output is played back using **Amazon Polly** (Text-to-Speech).
+
+### 🤖 AI Coaching & Chat
+- Choose an **expert avatar** based on topic or style (e.g., History Professor, Tech Mentor).
+- Get real-time responses and **AI-generated coaching**.
+
+### 📝 Summary & Feedback Generation
+- After conversation ends, generate **smart summaries** and **personalized feedback**.
+- Feedback includes chat review, suggestions, and learning tips.
+
+### 👤 Profile Management
+- Upload profile photo, view user info.
+- Data is synced with **Convex.dev database**.
+
+### 🔒 Authentication
+- Secure sign-up/sign-in.
+- Sessions are stored locally for persistent login.
+
+---
+
+## 🎯 Future Improvements
+
+- 🎤 Multi-language support
+- 🗓️ Schedule coaching sessions
+- 📱 Mobile-first PWA
+
+---
+
+## ✨ Thank You
+
+> OraMind is built with ❤️ to help you grow, communicate confidently, and reflect on your conversations.
+
+Feel free to ⭐ the repo if you found this helpful!
+
+---
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## 🚦 How to Run Locally
 
-First, run the development server:
+### 🔧 1. Clone the Repository
 
-```bash
+git clone https://github.com/your-username/oramind-ai-app.git
+cd oramind-ai-app
+
+### 💻 2. Install Dependencies
+
+npm install
+
+### ▶️ 3. Run the Frontend
+
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 🧠 4. Run Convex (Backend)
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+npx convex dev
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### ⚙️ 3. Set up Environment Variables
 
-## Learn More
+Create a .env.local file and add your keys:
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+NEXT_PUBLIC_CONVEX_URL=https://your-convex-instance.convex.cloud
+NEXT_PUBLIC_OPENAI_API_KEY=your-openai-key
+NEXT_PUBLIC_POLLY_REGION=your-region
+NEXT_PUBLIC_POLLY_ACCESS_KEY=your-access-key
+NEXT_PUBLIC_POLLY_SECRET_KEY=your-secret
+NEXT_PUBLIC_GOOGLE_STT_API_KEY=your-google-key
