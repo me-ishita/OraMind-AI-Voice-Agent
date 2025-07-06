@@ -1,6 +1,9 @@
 <p align="center">
   <img src="public/icon.jpg" alt="OraMind Logo" width="60" style="border-radius: 12px; margin-right: 12px;" />
-  <h1 align="center">OraMind – AI Voice Agent</h1>
+  <h1 className="text-3xl font-extrabold bg-gradient-to-r from-fuchsia-600 to-blue-600 text-transparent bg-clip-text ml-6 tracking-wide drop-shadow-lg align = center">
+  OraMind – AI Voice Agent
+</h1>
+
 </p>
 
 
