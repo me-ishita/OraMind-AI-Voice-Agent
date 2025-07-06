@@ -15,17 +15,17 @@
 
 ## 🛠️ Tech Stack
 
-| Technology            | Logo                                                                 | Description                              |
-|-----------------------|----------------------------------------------------------------------|------------------------------------------|
-| **Next.js**           | ![Next.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg) | Full-stack React framework               |
-| **Convex.dev**        | ![Convex](https://raw.githubusercontent.com/convex-dev/convex/main/logo.svg) | Backend & real-time DB                   |
-| **Tailwind CSS**      | ![Tailwind](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg) | Utility-first CSS                        |
-| **Google STT**        | ![Google](https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg) | Voice-to-text in real time               |
-| **Amazon Polly**      | ![AWS](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonaws.svg) | Converts text to realistic speech        |
-| **OpenAI (via OpenRouter)** | ![OpenAI](https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg) | Conversational AI responses              |
-| **Framer Motion**     | ![Framer Motion](https://cdn.worldvectorlogo.com/logos/framer-motion.svg) | React animation library                  |
-| **Sonner Toast**      | 🔔                                                                   | Beautiful toast notification system      |
-| **HTML/CSS/JS**       | 🌐                                                                   | Core front-end languages                 |
+| Technology                                  | Role/Usage                                      |
+|--------------------------------------------|--------------------------------------------------|
+| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) | Full-stack framework                         |
+| ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | Styling and responsiveness                   |
+| ![Convex](https://img.shields.io/badge/Convex.dev-2E2B4F?style=flat&logo=data&logoColor=white) | Serverless DB & Realtime Functions           |
+| ![Google Cloud](https://img.shields.io/badge/Google_Cloud_STT-4285F4?style=flat&logo=google-cloud&logoColor=white) | Real-time Speech-to-Text                     |
+| ![Amazon Polly](https://img.shields.io/badge/Amazon_Polly-FF9900?style=flat&logo=amazon-aws&logoColor=white) | AI-generated voice responses (Text-to-Speech)|
+| ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) | AI chat assistant using GPT models           |
+| ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-EF017C?style=flat&logo=framer&logoColor=white) | UI interactivity and animation              |
+| ![Toast / Sonner](https://img.shields.io/badge/Toast_Notifications-000000?style=flat&logo=react&logoColor=white) | Feedback notifications                       |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | Core front-end |
 
 
 ---
