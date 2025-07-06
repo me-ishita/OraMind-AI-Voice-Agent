@@ -27,7 +27,7 @@
 | ![Amazon Polly](https://img.shields.io/badge/Amazon_Polly-FF9900?style=flat&logo=amazon-aws&logoColor=white) | AI-generated voice responses (Text-to-Speech)|
 | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) | AI chat assistant using GPT models           |
 | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-EF017C?style=flat&logo=framer&logoColor=white) | UI interactivity and animation              |
-| ![Toast / Sonner](https://img.shields.io/badge/Toast_Notifications-000000?style=flat&logo=react&logoColor=white) | Feedback notifications                       |
+| ![Toast / Sonner](https://img.shields.io/badge/Toast_Notifications-000000?style=flat&logo=react&logoColor=white) | Modern toast notification                      |
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | Core front-end |
 
 
