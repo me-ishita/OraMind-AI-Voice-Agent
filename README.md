@@ -84,10 +84,10 @@ cd oramind-ai-app
 ### 💻 2. Install Dependencies
 npm install
 
-### ▶️ 3. Run the Frontend
+###  3. Run the Frontend
 npm run dev
 
-### 🧠 4. Run Convex (Backend)
+### ▶️ 4. Run Convex (Backend)
 npx convex dev
 
 ### ⚙️ 3. Set up Environment Variables
