@@ -1,11 +1,7 @@
 <p align="center">
   <img src="public/icon.jpg" alt="OraMind Logo" width="60" style="border-radius: 12px; margin-right: 12px;" />
-  <h1 className="text-3xl font-extrabold bg-gradient-to-r from-fuchsia-600 to-blue-600 text-transparent bg-clip-text ml-6 tracking-wide drop-shadow-lg align = center">
-  OraMind – AI Voice Agent
-</h1>
-
+  <h1 align="center">#  **OraMind – AI Voice Agent** </h1>
 </p>
-
 
 > **Speak. Learn. Grow.**  
 > A powerful voice-based AI assistant built with modern technologies to enhance your skills, learn deeply, and get instant feedback with real-time conversation.
@@ -86,19 +82,15 @@ git clone https://github.com/your-username/oramind-ai-app.git
 cd oramind-ai-app
 
 ### 💻 2. Install Dependencies
-
 npm install
 
 ### ▶️ 3. Run the Frontend
-
 npm run dev
 
 ### 🧠 4. Run Convex (Backend)
-
 npx convex dev
 
 ### ⚙️ 3. Set up Environment Variables
-
 Create a .env.local file and add your keys:
 
 NEXT_PUBLIC_CONVEX_URL=https://your-convex-instance.convex.cloud
