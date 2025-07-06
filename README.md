@@ -15,17 +15,18 @@
 
 ## 🛠️ Tech Stack
 
-| Technology | Logo | Description |
-|------------|------|-------------|
-| **Next.js** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="24"/> | React framework for full-stack web apps |
-| **Convex.dev** | <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fget-convex&psig=AOvVaw0AnsLnKXTTgPT2r2-2yWpr&ust=1751877099887000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjDoPzop44DFQAAAAAdAAAAABAE" width="24"/> | Backend & real-time database |
-| **Tailwind CSS** | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="24"/> | Utility-first CSS styling |
-| **Google STT (Speech-to-Text)** | <img src="https://img.icons8.com/color/48/google-logo.png" width="24"/> | Converts voice to text in real-time |
-| **Amazon Polly** | <img src="[https://img.icons8.com/ios/50/aws.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Faws&psig=AOvVaw16CyYIfaKjugpfoQC8_58Y&ust=1751877313498000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMD069jpp44DFQAAAAAdAAAAABAE)" width="24"/> | Text-to-speech (TTS) voice playback |
-| **OpenAI via OpenRouter** | <img src="[https://avatars.githubusercontent.com/u/61843385?s=24](https://www.google.com/imgres?q=openai%20icon&imgurl=https%3A%2F%2Fwww.svgrepo.com%2Fshow%2F306500%2Fopenai.svg&imgrefurl=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F306500%2Fopenai&docid=xjO3o9KhyKhqmM&tbnid=D7fzl4lESPM8lM&vet=12ahUKEwiuzNCE6qeOAxV2cGwGHY2HB3wQM3oECBgQAA..i&w=800&h=800&hcb=2&ved=2ahUKEwiuzNCE6qeOAxV2cGwGHY2HB3wQM3oECBgQAA)" width="24"/> | Conversational AI responses |
-| **Framer Motion** | <img src="https://seeklogo.com/images/F/framer-motion-logo-DA1E33CAA1-seeklogo.com.png" width="24"/> | Animations & transitions |
-| **Sonner Toast** | 🔔 | Modern toast notification system |
-| **HTML/CSS/JS** | 🌐 | Core web development languages |
+| Technology            | Logo                                                                 | Description                              |
+|-----------------------|----------------------------------------------------------------------|------------------------------------------|
+| **Next.js**           | ![Next.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg) | Full-stack React framework               |
+| **Convex.dev**        | ![Convex](https://raw.githubusercontent.com/convex-dev/convex/main/logo.svg) | Backend & real-time DB                   |
+| **Tailwind CSS**      | ![Tailwind](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg) | Utility-first CSS                        |
+| **Google STT**        | ![Google](https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg) | Voice-to-text in real time               |
+| **Amazon Polly**      | ![AWS](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonaws.svg) | Converts text to realistic speech        |
+| **OpenAI (via OpenRouter)** | ![OpenAI](https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg) | Conversational AI responses              |
+| **Framer Motion**     | ![Framer Motion](https://cdn.worldvectorlogo.com/logos/framer-motion.svg) | React animation library                  |
+| **Sonner Toast**      | 🔔                                                                   | Beautiful toast notification system      |
+| **HTML/CSS/JS**       | 🌐                                                                   | Core front-end languages                 |
+
 
 ---
 
