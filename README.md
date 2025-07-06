@@ -15,17 +15,17 @@
 
 ## 🛠️ Tech Stack
 
-| Technology       | Role/Usage                                      |
-|------------------|--------------------------------------------------|
-| **Next.js 14+**      | Full-stack framework                         |
-| **Tailwind CSS**     | Styling and responsiveness                   |
-| **Convex.dev**       | Serverless DB & Realtime Functions           |
-| **Google Cloud STT** | Real-time Speech-to-Text                     |
-| **Amazon Polly**     | AI-generated voice responses (Text-to-Speech)|
-| **OpenAI (via OpenRouter)** | AI chat assistant using GPT models         |
-| **React + Framer Motion** | UI interactivity and animation              |
-| **Toast / Sonner**   | Feedback notifications                       |
-| **HTML, CSS, JS**    | Core front-end                               |
+| Technology | Logo | Description |
+|------------|------|-------------|
+| **Next.js** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="24"/> | React framework for full-stack web apps |
+| **Convex.dev** | <img src="https://avatars.githubusercontent.com/u/87401465?s=24" width="24"/> | Backend & real-time database |
+| **Tailwind CSS** | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="24"/> | Utility-first CSS styling |
+| **Google STT (Speech-to-Text)** | <img src="https://img.icons8.com/color/48/google-logo.png" width="24"/> | Converts voice to text in real-time |
+| **Amazon Polly** | <img src="https://img.icons8.com/ios/50/aws.png" width="24"/> | Text-to-speech (TTS) voice playback |
+| **OpenAI via OpenRouter** | <img src="https://avatars.githubusercontent.com/u/61843385?s=24" width="24"/> | Conversational AI responses |
+| **Framer Motion** | <img src="https://seeklogo.com/images/F/framer-motion-logo-DA1E33CAA1-seeklogo.com.png" width="24"/> | Animations & transitions |
+| **Sonner Toast** | 🔔 | Modern toast notification system |
+| **HTML/CSS/JS** | 🌐 | Core web development languages |
 
 ---
 
@@ -37,7 +37,7 @@
 - Voice output is played back using **Amazon Polly** (Text-to-Speech).
 
 ### 🤖 AI Coaching & Chat
-- Choose an **expert avatar** based on topic or style (e.g., History Professor, Tech Mentor).
+- Choose an **expert avatar** based on topic or style.
 - Get real-time responses and **AI-generated coaching**.
 
 ### 📝 Summary & Feedback Generation
