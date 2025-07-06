@@ -1,6 +1,8 @@
-# 🎙️ OraMind - AI Voice Agent
+<p align="center">
+  <img src="public/icon.jpg" alt="OraMind Logo" width="60" style="border-radius: 12px; margin-right: 12px;" />
+  <h1 align="center">OraMind – AI Voice Agent</h1>
+</p>
 
-![OraMind Logo](public/icon.jpg)
 
 > **Speak. Learn. Grow.**  
 > A powerful voice-based AI assistant built with modern technologies to enhance your skills, learn deeply, and get instant feedback with real-time conversation.
