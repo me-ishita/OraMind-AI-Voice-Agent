@@ -10,6 +10,8 @@
 
 ## 🔥 Live Demo
 
+[![Live Demo](https://img.shields.io/badge/OraMind%20Live-Click%20Here-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://oramind-ai-voice-agent.onrender.com/)
+
 🧠 Talk to AI, get feedback, and level up your communication!
 
 ---
