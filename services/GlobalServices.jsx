@@ -3,6 +3,7 @@ import OpenAI from "openai";
 import { ExpertsList } from "./Options";
 import { PollyClient, SynthesizeSpeechCommand } from "@aws-sdk/client-polly";
 
+//  console.log("Loaded API Key:", process.env.OPEN_API_KEY ? "Found ✅" : "Missing ❌");
 
 const openai = new OpenAI({
   baseURL: "https://openrouter.ai/api/v1",
@@ -18,7 +19,7 @@ export const AIModel = async (topic, coachingOption, lastTwoConversation) => {
   const PROMPT = option.prompt.replace("{user_topic}", topic);
 
   const completion = await openai.chat.completions.create({
-    model: "deepseek/deepseek-chat-v3-0324:free",
+    model: "gpt-3.5-turbo",
     messages: [{ role: "system", content: PROMPT }, ...lastTwoConversation],
   });
 
